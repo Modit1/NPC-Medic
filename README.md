@@ -1,7 +1,7 @@
 # NPC-Medic
 This script is a custom medic treatment sequence using animations and peds.
 
-Script Description
+# Script Description
 
 This allows people to use medic NPCs for example no medics are online, they can then go and pay these NPC's to give them treatment instead of being at low hp.
 
@@ -13,20 +13,18 @@ The ped will carry you onto a random bed, here you will receive treatment for a 
 
  
 
-Requirements
+# Requirements
 
 - es_extended [v1-final and lower]
 
  
 
-Preview
+# Preview
 
 https://www.youtube.com/watch?v=n0-rTc9hM2M
 
 
-Notes
-
- 
+# Notes
 
 * Works in both OneSync Infinity and Vanilla
 
